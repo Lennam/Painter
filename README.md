@@ -1,3 +1,3 @@
 # 绘图程序
 -----------
-<a href="http://southernxtar.com/Painter/." target="_blank">在线演示</a>
+<a href="https://lennam.github.io/Painter/" target="_blank">在线演示</a>
